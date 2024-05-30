@@ -1,0 +1,45 @@
+ <?php
+
+  function components_recipe_install() {
+
+    /* 
+
+    $types = array(
+      array(
+        'type' => 'card',
+        'name' => st('Card'),
+        'description' => st('Add a card for use on an existing page. Display as a block or in a view.'),
+        'settings' => array(
+          'status_default' => NODE_PUBLISHED,
+          'node_preview' => TRUE,
+          'promote_enabled' => TRUE,
+          'promote_default' => FALSE,
+          'sticky_enabled' => FALSE,
+          'sticky_default' => FALSE,
+          'revision_enabled' => TRUE,
+          'revision_default' => FALSE,
+          'scheduling_enabled' => FALSE,
+          'show_submitted_info' => FALSE,
+          'comment_default' => COMMENT_NODE_CLOSED,
+          'node_submitted' => FALSE,
+          'node_user_picture' => FALSE,
+          'hidden_path' => TRUE,
+        ),
+        'is_new' => TRUE,
+      ),
+    );
+
+  
+
+    // Add default alias for page content types.
+    config('path.settings')
+      ->set('node_card_pattern', 'cards/[node:title]')
+      ->save();
+      
+  */ 
+    cache_clear_all();
+
+ 
+     
+  }
+  

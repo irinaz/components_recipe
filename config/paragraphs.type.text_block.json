@@ -1,0 +1,9 @@
+{
+    "_config_name": "paragraphs.type.text_block",
+    "bundle": "text_block",
+    "name": "Text Block",
+    "label": "Text Block",
+    "description": "",
+    "locked": 1,
+    "allow_unpublish": 1
+}

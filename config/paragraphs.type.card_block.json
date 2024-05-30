@@ -1,0 +1,9 @@
+{
+    "_config_name": "paragraphs.type.card_block",
+    "bundle": "card_block",
+    "name": "Card block",
+    "label": "Card block",
+    "description": "",
+    "locked": 1,
+    "allow_unpublish": 1
+}

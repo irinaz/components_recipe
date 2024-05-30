@@ -1,0 +1,10 @@
+type = module
+name = Components Recipe
+description = A simple recipe for components (text block, card, alert) with templates
+package = Recipes
+backdrop = 1.x
+
+dependencies[] = system (>=1.20.0)
+dependencies[] = paragraphs
+
+stylesheets[all][] = css/components.css

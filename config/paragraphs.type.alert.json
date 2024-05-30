@@ -1,0 +1,9 @@
+{
+    "_config_name": "paragraphs.type.alert",
+    "bundle": "alert",
+    "name": "Alert",
+    "label": "Alert",
+    "description": "",
+    "locked": 1,
+    "allow_unpublish": 1
+}

@@ -1,0 +1,31 @@
+{
+    "_config_name": "field.instance.paragraphs_item.alert.field_alert_type",
+    "field_name": "field_alert_type",
+    "entity_type": "paragraphs_item",
+    "bundle": "alert",
+    "label": "Alert Type",
+    "widget": {
+        "weight": "2",
+        "type": "options_select",
+        "module": "options",
+        "active": 1,
+        "settings": []
+    },
+    "description": "",
+    "required": 0,
+    "deleted": 0,
+    "default_value": null,
+    "default_value_function": null,
+    "settings": {
+        "user_register_form": false
+    },
+    "display": {
+        "default": {
+            "label": "hidden",
+            "type": "list_default",
+            "settings": [],
+            "module": "list",
+            "weight": 1
+        }
+    }
+}
